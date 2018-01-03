@@ -18,7 +18,6 @@ function theBeatlesPlay(musicians, instruments){
  }
  
 
-
 function iLoveTheBeatles(num) {
      var love = [];
      do {
